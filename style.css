@@ -84,6 +84,7 @@ body{
     padding-bottom: 50px;
     background-image: url(images/map-blur.png);
     background-repeat: repeat-y;
+    Background-size: cover;
 }
 #content{
     padding-top: 1px;
